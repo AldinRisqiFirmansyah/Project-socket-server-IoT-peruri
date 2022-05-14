@@ -1,1 +1,1 @@
-# Project-socket-server-IoT-peruri
+# Socket server project using express js for processing data from IoT Device
